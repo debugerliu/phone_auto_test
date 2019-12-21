@@ -27,8 +27,3 @@ class TestSetting:
         self.driver.find_element_by_xpath('//android.widget.TextView[@text="网络类型选择"]').click()
         self.driver.find_element_by_xpath('//android.widget.CheckedTextView[@text="3G网络优先"]').click()
 
-    # def test_display_search(self):
-    #     pass
-
-    # def test_login(self):
-    #     print('成功')
