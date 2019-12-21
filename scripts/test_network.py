@@ -1,5 +1,6 @@
 from base.base_driver import init_driver
-from page.network_work import NetworkPage
+from page.network_page import NetworkPage
+
 
 class TestNetWork:
 
